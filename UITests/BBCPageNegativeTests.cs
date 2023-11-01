@@ -16,7 +16,6 @@ namespace kursesCsharp
         private AuthorizationPage _authorizationPage;
 
         private const string _userName = "solozhenkova121998@gmail.com";
-        private const string _userPassword = "password1210";
 
         [SetUp]
         public void SetUp()
